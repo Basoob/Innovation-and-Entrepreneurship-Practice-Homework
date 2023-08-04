@@ -1,16 +1,16 @@
 # 创新创业实践作业
 ## 已实现项目
-* Project1: implement the naïve birthday attack of reduced SM3做完
-* Project2: implement the Rho method of reduced SM3做完
-* Project3: implement length extension attack for SM3, SHA256, etc.做完
-* Project5: Impl Merkle Tree following RFC6962做完
-* Project9: AES / SM4 software implementation做完
-* Project10: report on the application of this deduce technique in Ethereum with ECDSA做完
-* Project11: impl sm2 with RFC6979做完
-* Project15: implement sm2 2P sign with real network communication做完
-* Project16: implement sm2 2P decrypt with real network communication做完
-* Project17：比较Firefox和谷歌的记住密码插件的实现区别 做完
-* Project22: research report on MPT做完
+* Project1: implement the naïve birthday attack of reduced SM3
+* Project2: implement the Rho method of reduced SM3
+* Project3: implement length extension attack for SM3, SHA256, etc.
+* Project5: Impl Merkle Tree following RFC6962
+* Project9: AES / SM4 software implementation
+* Project10: report on the application of this deduce technique in Ethereum with ECDSA
+* Project11: impl sm2 with RFC6979
+* Project15: implement sm2 2P sign with real network communication
+* Project16: implement sm2 2P decrypt with real network communication
+* Project17：比较Firefox和谷歌的记住密码插件的实现区别 
+* Project22: research report on MPT
 ## 完成人
 项目均由个人完成，部分项目代码参考自网络或与同学讨论
 * 姓名：班世博
