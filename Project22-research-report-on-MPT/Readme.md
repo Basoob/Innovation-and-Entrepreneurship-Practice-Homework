@@ -1,5 +1,7 @@
 # research-report-on-MPT
 ### Project22.txt文件与Readme.md文件内容相同
+## Merkle Patricia Trie
+![PKUVJ(6W6V5D8398U7% @NW](https://github.com/Basoob/Innovation-and-Entrepreneurship-Practice-Homework/assets/141385265/17ccaf61-4d24-49c4-8739-07546c7dbc8b)
 ## MPT节点类型
 Merkle Patricia Trie（MPT）的节点类型包括叶子节点（Leaf Node）、扩展节点（Extension Node）、分支节点（Branch Node）和空值节点（Empty Node）。
 * 叶子节点（Leaf Node）：
